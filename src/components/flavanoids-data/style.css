@@ -1,0 +1,23 @@
+.table-body {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+.measure-inline {
+  text-align: inherit;
+  color: black;
+  font-weight: 600;
+}
