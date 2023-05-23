@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Table Output 
+<img width="582" alt="Screenshot 2023-05-23 at 5 55 48 PM" src="https://github.com/Saurabh270598/manufac-assignment/assets/81359361/2c19a173-d37c-4ecc-8a07-2987b9b41b3e">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
